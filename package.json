@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "ramda": "0.19.x",
-    "request": "2.74.x"
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "istanbul": "0.4.x",
